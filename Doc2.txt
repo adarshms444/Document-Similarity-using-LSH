@@ -1,7 +1,0 @@
-“ISRO successfully accomplishes first Integrated Air Drop Test (IADT-01) for end-to-end demonstration of parachute based deceleration system for Gaganyaan missions,” ISRO wrote on X.
-
-The IADT is a specialised trial to ensure the parachute system designed for the Gaganyaan crew module performs reliably in real-world conditions. During the test, a dummy crew capsule weighing around five tonnes was lifted up through the air before being dropped by a Chinook helicopter. As it descended through a few km, its main parachutes had to open in a specific sequence to decelerate the capsule to a safe splashdown speed.
-
-During an actual flight with astronauts, the main parachutes will have to deploy after the capsule has re-entered the atmosphere and has been slowed first by the heat shields and drogue parachutes.
-
-The ascent, descent, and post-splashdown phases of the Gaganyaan mission are expected to be the most risky for the astronauts. According to ISRO, the effort brought together multiple national agencies — the Air Force, the Defence Research and Development Organisation (DRDO), the Navy, and the Coast Guard — in what officials described as a coordinated step towards human-rating India’s launch and recovery systems.
