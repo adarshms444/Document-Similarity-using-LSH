@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 # ==============================
 # 0) Set up Spark in Colab
 # ==============================
@@ -21,7 +19,7 @@ spark = SparkSession.builder.appName("MinHashLSH_Report").getOrCreate()
 print("Spark version:", spark.version)
 
 # ======================================
-# 1) Point to your 9 docs (edit if needed)
+# 1) Point to your 9 docs 
 # ======================================
 DOC_PATHS = [
     "/content/Doc1.txt",
